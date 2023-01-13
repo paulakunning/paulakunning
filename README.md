@@ -1,8 +1,11 @@
 # 👋 Hi! I'm Paula Kunning
 
 I am a full-stack developer from Argentina, who loves coding and learning whatever I can. 
-After having my accountant degree, I felt curious about what was programming about, so I started learning by myself and I found it fascinating. Coding was my real passion and that is why I decided to get out from my confort zone and joined the Soy Henry's bootcamp.
-I have a strong Frontend orientation because I am a highly creative person. I love generating attractive experiences, not only visually but also functionally paying special attention on details. 
+
+After having my accountant degree, I felt curious about what was programming about, so I started learning by myself and I found it fascinating. Coding is my real passion and that is why I decided to get out of my confort zone and joined the Soy Henry's bootcamp.
+
+I have a strong Frontend orientation because I am a highly creative person. I love generating attractive experiences, not only visually but also functionally, paying special attention on details. 
+
 I am excited to work with a team and contribute my ideas to help move the team forward. If you're interested, feel free to contact me!
 
 ---
@@ -84,3 +87,5 @@ I am excited to work with a team and contribute my ideas to help move the team f
 
 # 
 [![](https://visitcount.itsvg.in/api?id=paulakunning&icon=2&color=5)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=paulakunning&style=for-the-badge&color=e56b6f)
+
