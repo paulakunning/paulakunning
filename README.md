@@ -1,7 +1,9 @@
 # 👋 Hi! I'm Paula Kunning
 
-**I'm a fullstack developer from Argentina, who loves coding and learning whatever I can. I'm studying Fullstack Web Development at Henry’s bootcamp and I'm at the final project stage. 
-I have a strong Frontend orientation because I'm focus on develop creative and innovative user experiences with special attention on details.**
+I am a full-stack developer from Argentina, who loves coding and learning whatever I can. 
+After having my accountant degree, I felt curious about what was programming about, so I started learning by myself and I found it fascinating. Coding was my real passion and that is why I decided to get out from my confort zone and joined the Soy Henry's bootcamp.
+I have a strong Frontend orientation because I am a highly creative person. I love generating attractive experiences, not only visually but also functionally paying special attention on details. 
+I am excited to work with a team and contribute my ideas to help move the team forward. If you're interested, feel free to contact me!
 
 ---
 
