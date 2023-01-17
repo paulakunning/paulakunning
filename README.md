@@ -6,7 +6,7 @@
 🚀 After having my accountant degree, I felt curious about what was programming about, so I started learning by myself and I found it fascinating. Coding is my real passion and that is why I decided to get out of my confort zone and joined the Soy Henry's bootcamp.
 
 
-🛠 I have knowledge in HTML, CSS, SASS, LESS, Bootstrap, ChakraUI, Javascript, ReactJS, Redux, NodeJS, ExpressJS, Sequelize y PostgreSQL. I am learning Typescript, but I am open to learn any other technology!
+🛠 I have knowledge in HTML, CSS, SASS, LESS, Bootstrap, ChakraUI, MaterialUI, Figma, Javascript, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, PostgreSQL and Scrum. I am learning Typescript, but I am open to learn any other technology!
 
 
 🎨 I am a highly creative person. I love generating attractive experiences, not only visually but also functionally, paying special attention on details. I like being part of a team because I can learn from my teammates and bring my knowledge in order to achieve goals. 
