@@ -93,6 +93,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-kunning/)
 
 # 
-[![](https://visitcount.itsvg.in/api?id=paulakunning&icon=2&color=5)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=paulakunning&style=for-the-badge&color=e56b6f)
 
