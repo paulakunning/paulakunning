@@ -6,13 +6,13 @@
 🚀 After having my accountant degree, I felt curious about what was programming about, so I started learning by myself and I found it fascinating. Coding is my real passion and that is why I decided to get out of my confort zone and joined the Soy Henry's bootcamp.
 
 
-🛠 I have knowledge in HTML, CSS, SASS, LESS, Bootstrap, ChakraUI, MaterialUI, Figma, Javascript, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, PostgreSQL and Scrum. I am learning Typescript, but I am open to learn any other technology!
+🛠 I have knowledge in HTML, CSS, SASS, Bootstrap, ChakraUI, MaterialUI, Figma, Javascript, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, PostgreSQL and Scrum. I am learning React Native, but I am open to learn any other technology!
 
 
 🎨 I am a highly creative person. I love generating attractive experiences, not only visually but also functionally, paying special attention on details. I like being part of a team because I can learn from my teammates and bring my knowledge in order to achieve goals. 
 
 
-📩 If you're interested, feel free to [contact me!](https://www.linkedin.com/in/paula-kunning/)
+💼 If you want to know more about me, you can visit [my portfolio](https://paulakunning.vercel.app/)
 
 
 ---
@@ -87,10 +87,23 @@
   </tr>
 </table>
 
-## 📲 **Let's talk!**
+<details>
+    <summary> <samp> 👩‍💻 My Stats </samp></summary>
+        <p>
+            <br>
+            <img alt="Paula Kunning's GitHub Stats"
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=paulakunning&layout=compact" />
+            <br>
+        </p>
+</details>
+
+
+
+## 📲 **Feel free to contact me!**
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulakunning@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-kunning/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pau_dev_)
 
 # 
 ![](https://komarev.com/ghpvc/?username=paulakunning&style=for-the-badge&color=e56b6f)
