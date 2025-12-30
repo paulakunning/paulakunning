@@ -1,18 +1,17 @@
 # 👋 Hi! I'm Paula Kunning
 
-🙋🏼‍♀️ I am a full-stack developer from Argentina, who loves coding and learning whatever I can.
+👩‍💻 Full-stack developer and web designer from Córdoba, Argentina.
 
+🎨 I create websites, branding, and social media designs, mixing creativity and functionality to help brands stand out.
 
-🚀 After having my accountant degree, I felt curious about what was programming about, so I started learning by myself and I found it fascinating. Coding is my real passion and that is why I decided to get out of my confort zone and joined the Soy Henry's bootcamp.
+🛠️ Skills: HTML, CSS, Javascript, WordPress, Elementor, React, NodeJs, Illustrator, Photoshop, Canva.
 
+📩 Contact: paulakunning@gmail.com | 🌐 [My studio](https://pixerum.com/)
 
-🛠 I have knowledge in HTML, CSS, SASS, Bootstrap, ChakraUI, MaterialUI, Figma, Javascript, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, PostgreSQL, Scrum and Wordpress. And I am open to learn any other technology!
+💼 [My personal portfolio]( https://paulakunning.com/)
 
+🎨 Take a look at [my design work](https://www.behance.net/paulakunning)
 
-🎨 I am a highly creative person. I love generating attractive experiences, not only visually but also functionally, paying special attention on details. I like being part of a team because I can learn from my teammates and bring my knowledge in order to achieve goals. 
-
-
-💼 If you want to know more about me, you can visit [my portfolio](https://paulakunning.vercel.app/)
 
 
 <details>
